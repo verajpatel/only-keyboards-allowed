@@ -54,6 +54,7 @@ html {
 
 .masthead a {
   border-bottom: .2em solid rgba(255, 255, 255, .6);
+  outline-color: #fff;
 
   color: #fff;
   text-decoration: none;
